@@ -1,0 +1,14 @@
+Context:
+
+song lyric lookup program that looks up and compares lyrics for songs and should be able hook into spotify, youtube, tidal etc.. it should find song lyrics and display them and enable copy paste, lookup etc.. it should also show things like the most common analogies and phrases in songs as well as common words. I should be able to also get wiki stub links or some other source that shows song meaning from the artist via articles etc..
+
+The program should also show album art and link to artist info. We should also show lyrical trends per decade in some sort of visual/word map or web
+
+
+Design and UX: The interface should be modern and highly intuitive, can be web based and should be optimized for both mobile and web browsers using 
+
+
+APIs:
+
+Wikipedia, apple music, spotify, youtube, tidal
+

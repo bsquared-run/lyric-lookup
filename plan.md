@@ -1,0 +1,7 @@
+- [~] Set up the initial project structure and dependencies for the web application
+- [~] Explore the existing codebase to understand its functionality
+- [~] Implement the lyric lookup functionality: Create API route and find external lyrics API
+- [~] Add unit tests for the lyric lookup functionality (skipped by user request)
+- [~] Integrate the lyric lookup with the web application UI
+- [~] Ensure all code adheres to the defined code style guides (skipped by user request)
+- [~] Perform end-to-end testing of the web application (skipped by user request)
